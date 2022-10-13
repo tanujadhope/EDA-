@@ -1,5 +1,5 @@
 # EDA-
-This code deals with EDA  using
+1.This code deals with EDA  using
 Autoviz
 sweetviz
 pandas profiling
